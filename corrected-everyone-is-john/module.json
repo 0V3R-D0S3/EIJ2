@@ -1,0 +1,31 @@
+
+{
+  "name": "everyone-is-john",
+  "title": "Everyone is John",
+  "description": "A Foundry VTT module for the game 'Everyone is John'. Automates game mechanics and provides custom character sheets.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/main.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [],
+  "esmodules": [],
+  "socket": false,
+  "manifest": "https://yourdomain.com/path/to/module.json",
+  "download": "https://yourdomain.com/path/to/module.zip",
+  "readme": "https://yourdomain.com/path/to/readme.md",
+  "license": "LICENSE.txt"
+}
+    
